@@ -1,3 +1,16 @@
+# Noti React
+
+This app allows show any news and filter by category (via API).
+
+### Dev tools used
+
+> - HTML, CSS, Bootstrap 4, Module CSS for React
+> - ES6 (Fecth API), React.js (Custom Hooks)
+> - API (News Api): https://newsapi.org/
+
+The API only works in develop mode (localhost). Here the screenshot:
+![screenshot](noti-react-localhost.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
